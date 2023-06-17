@@ -1,4 +1,6 @@
-# Pacman-Game-Multiplayer-
+
+# Pacman-Game-Multiplayer-![WhatsApp Image 2023-06-17 at 5 09 32 PM](https://github.com/Zamehi/Pacman-Game-Multiplayer-/assets/129313428/58d6f481-ec31-4244-b2dd-54b4ff191c2d)
+
 Hogwarts theme
 You are tasked with implementing a simple multiplayer game where players can move around a game
 board and collect items. The game should have the following features:
